@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-u59)5yzq-h-g9&v9x8m18q!*h%0d#z9)kp8qbmu()klu=yfb+b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["port-0-archeage-auction-20z52flc0q0q6a.gksl2.cloudtype.app"]
 
 
 # Application definition
