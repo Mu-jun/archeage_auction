@@ -1,0 +1,1 @@
+archeage_auction_api_url = "https://archeage.xlgames.com/auctions/list/ajax"
